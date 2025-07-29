@@ -10,20 +10,20 @@
   },
   {
     "text": [
-      153,
       5,
-      "Morgen",
-      "fonts/bahnschrift20",
-      "red"
+      40,
+      "07:30-16:30 Thomas",
+      "t0_14b_tf",
+      1
     ]
   },
   {
     "text": [
       153,
-      40,
-      "07:30-16:30 Thomas",
-      "t0_14b_tf",
-      1
+      5,
+      "Morgen",
+      "fonts/bahnschrift20",
+      "red"
     ]
   },
   {
